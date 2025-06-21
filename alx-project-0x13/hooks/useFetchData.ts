@@ -42,4 +42,6 @@ const useFetchData = <T, R>() => {
     generatedImages
   }
 }
+
+
 export default useFetchData;
